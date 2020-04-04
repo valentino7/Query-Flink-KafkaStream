@@ -1,7 +1,7 @@
 # Query-Flink-KafkaStream
 
-Tl progetto riguarda rispondere ad alcune query su un dataset formato da commenti e query
-the project concerns answering some queries on a dataset made up of comments and queries.
+The project concerns answering some queries on a dataset made up of comments and queries. The queries have been resolved in Flink and Kafka Stream.
+
 
 ### Prerequisites
 
