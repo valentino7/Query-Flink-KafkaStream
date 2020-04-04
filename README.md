@@ -21,6 +21,9 @@ docker-compose.yml
 in the path ``` src / main / java / docker / kafka / ```
 
 - then start redis container
+```
+docker run --name redis:latest -d redis
+```
 
 
 ## Authors
